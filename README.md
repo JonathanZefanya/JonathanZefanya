@@ -73,9 +73,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JonathanZefanya/JonathanZefanya/output/snake.svg" alt="Snake animation" />
+<h2 align="left"> Count View My Dashboard GitHub</h2>
 
 ###
 
