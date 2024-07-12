@@ -73,7 +73,7 @@
 
 ###
 
-<h2 align="left"> Count View My Dashboard GitHub</h2>
+<h2 align="center"> Count View My Dashboard GitHub</h2>
 
 ###
 
