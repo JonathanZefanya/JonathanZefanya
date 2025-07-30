@@ -55,9 +55,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
-<img align="left" height="200" src="https://storage.ko-fi.com/cdn/useruploads/display/3f66e8b9-7d87-4cfe-a318-d78499ef6825_5nahida_wiggle_448.gif"  />
 
 ###
 
@@ -65,8 +62,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jonathanzefanya.jonathanzefanya&left_color=darkorange&right_color=darkgray"  />
-</div>
+<p align="center">
+  <img src="https://count.getloli.com/get/@zZHorizonZz?theme=moebooru">
+</p>
 
 ###
