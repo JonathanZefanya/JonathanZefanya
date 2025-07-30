@@ -63,8 +63,16 @@
 
 ###
 
+<img align="left" height="200" src="https://storage.ko-fi.com/cdn/useruploads/display/3f66e8b9-7d87-4cfe-a318-d78499ef6825_5nahida_wiggle_448.gif"  />
+
+###
+
+<img align="right" height="200" src="https://cutecafe.art/wp-content/uploads/2023/03/039b94.gif"  />
+
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jonathanzefanya.jonathanzefanya&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jonathanzefanya.jonathanzefanya&left_color=darkorange&right_color=darkgray"  />
 </div>
 
 ###
