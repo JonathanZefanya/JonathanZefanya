@@ -110,7 +110,8 @@
     <a href="https://www.instagram.com/xeadesta" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Xeadesta&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"/>
     </a>
-    <a href="https://discordapp.com/users/610354073362759683" target="_blank"><img src="https://img.shields.io/badge/Xeadesta%20-%237289DA.svg?&style=for-the-badge&logo=discord logoColor=white"/>
+    <a href="https://discordapp.com/users/610354073362759683" target="_blank">
+      <img src="https://img.shields.io/badge/Xeadesta%20-%237289DA.svg?&style=for-the-badge&logo=discordlogoColor=white"/>
     </a>
   </p>
 </div>
