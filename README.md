@@ -18,7 +18,7 @@
 <div>
   <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
     <div align="center">
-      <img src="assets/nahida-nahida-wave.gif" align="right">
+      <img src="assets/nahida-nahida-wave.gif" align="right" width="200px">
     </div>
   <li>
     <b>Name:</b> Jonathan Zefanya
