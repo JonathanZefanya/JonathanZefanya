@@ -100,26 +100,30 @@
     <img src="assets/salken.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
+<br>
 
   <p align="center">Here are some of my <br>
   most used social media i used <img src="assets/8007-nahidamachinegun.gif" alt="dendro" width="20px"> 
   </p>
   <p align="center">
-    <a href="https://twitter.com/Miellabun" target="_blank">
-      <img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+    <a href="https://www.instagram.com/xeadesta" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Xeadesta&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"/>
     </a>
-    <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+    <a href="https://discordapp.com/users/610354073362759683" target="_blank"><img src="https://img.shields.io/badge/Xeadesta%20-%237289DA.svg?&style=for-the-badge&logo=discord logoColor=white"/>
     </a>
   </p>
 </div>
+
 <br>
+
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-<div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
-</div>
+  <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+  <div align="center">
+  <img src="https://i.imgur.com/tzYKRfd.gif">
+  </div>
 <hr>
 </div>
+
 </div>
     </center>
 </body>
