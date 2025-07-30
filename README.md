@@ -91,11 +91,10 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  /> <br>
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-    <img width="12" />
     As an enthusiastic student, I am passionate about creating engaging digital experiences and always strive to deliver the best solutions in every project I undertake.
   </p>
 <br>
+
 <h2 align="center">📝 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮  📝</h2>
   <div align="center">
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
