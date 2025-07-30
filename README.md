@@ -16,7 +16,11 @@
 </div>
 
 <div>
-  <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <h2 align="center">
+    <img src="assets/nahihi.jpg" alt="dendro" width="35px">
+      𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 
+    <img src="assets/nahihi.jpg" alt="dendro" width="35px">
+  </h2>
     <div align="center">
       <img src="assets/nahida-nahida-wave.gif" align="right" width="200px">
     </div>
@@ -39,7 +43,7 @@
     <b>Hobbys:</b> Software Development, Gaming, Writer
   </li>
   <li>
-    <b>University :</b> Institut Teknologi Indonesia <img src="https://iti.ac.id/wp-content/uploads/2021/10/Logo-ITI-oke-1.png" alt="logoiti" width="20px">
+    <b>University :</b> Institut Teknologi Indonesia <img src="https://iti.ac.id/wp-content/uploads/2021/10/Logo-ITI-oke-1.png" alt="logoiti" width="15px">
   </li>
   <br><br><br>
 </div>
