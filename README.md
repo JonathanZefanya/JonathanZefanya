@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="180" src="https://cutecafe.art/wp-content/uploads/2023/03/36ffd.gif"  />
+<img align="right" height="123" src="https://cutecafe.art/wp-content/uploads/2023/03/36ffd.gif"  />
 
 ###
 
@@ -57,11 +57,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonathanzefanya/jonathanzefanya/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonathanzefanya/jonathanzefanya/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jonathanzefanya/jonathanzefanya/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/jonathanzefanya/jonathanzefanya/output/snake.svg" alt="Snake animation" />
 
 ###
 
