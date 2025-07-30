@@ -6,8 +6,8 @@
 <br>
 
 <div align="center">
-  <a href="https://egirl.ing/" >
-    <img src="https://media1.tenor.com/m/Rgp9CoYT_joAAAAd/nahida-genshin-impact.gif" />
+  <a href="https://xead.my.id/" >
+    <img src="assets/nahida-genshin-impact.gif" alt="My GIF" width="250px">
   </a>
 </div>
 
