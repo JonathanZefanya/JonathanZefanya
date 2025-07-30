@@ -2,10 +2,10 @@
 
 <center>
 <h1 align="center">~ 
-  <img src="https://static.wikia.nocookie.net/genshin-impact/images/7/73/Element_Dendro.svg/revision/latest/thumbnail/width/360/height/360?cb=20220502032615&path-prefix=id">
+  <img src="https://static.wikia.nocookie.net/genshin-impact/images/7/73/Element_Dendro.svg/revision/latest/thumbnail/width/360/height/360?cb=20220502032615&path-prefix=id" alt="dendro" width="50px">
     𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 
-  <img src="https://static.wikia.nocookie.net/genshin-impact/images/7/73/Element_Dendro.svg/revision/latest/thumbnail/width/360/height/360?cb=20220502032615&path-prefix=id"> 
-~</h1>
+  <img src="https://static.wikia.nocookie.net/genshin-impact/images/7/73/Element_Dendro.svg/revision/latest/thumbnail/width/360/height/360?cb=20220502032615&path-prefix=id" alt="dendro" width="50px"> 
+  ~</h1>
 
 <br>
 
