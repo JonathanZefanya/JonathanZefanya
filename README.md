@@ -130,8 +130,8 @@
   <h2 align="center">💖 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓥𝓲𝓼𝓲𝓽𝓲𝓷𝓰! 💖</h2>
   <div align="center">
     <p align="center">
-      <img src="assets/sayonara.gif">
-      <img src="https://count.getloli.com/get/@JonathanZefanya?theme=moebooru">
+      <!-- <img src="assets/sayonara.gif"> -->
+      <img src="https://count.getloli.com/get/@JonathanZefanya?theme=booru-jaypee">
     </p>
   </div>
 <hr>
