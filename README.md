@@ -95,6 +95,14 @@
   </p>
 <br>
 
+<h2 align="center">⚔️ 𝓜𝔂 𝓢𝓽𝓪𝓽𝓾𝓼 ⚔️</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathanzefanya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanzefanya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<br>
+
 <h2 align="center">📝 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮  📝</h2>
   <div align="center">
     <img src="assets/salken.gif" align="right" width="373.5px" height="208.5px">
@@ -114,14 +122,6 @@
       <img src="https://img.shields.io/badge/Xeadesta%20-%237289DA.svg?&style=for-the-badge&logo=discordlogoColor=white"/>
     </a>
   </p>
-</div>
-
-<br>
-
-<h2 align="center">⚔️ 𝓜𝔂 𝓢𝓽𝓪𝓽𝓾𝓼 ⚔️</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathanzefanya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanzefanya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br>
