@@ -17,9 +17,9 @@
 
 <div>
   <h2 align="center">
-    <img src="assets/nahihi.jpg" alt="dendro" width="35px">
+    <img src="assets/nahihi.jpg" alt="dendro" width="30px">
       𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 
-    <img src="assets/nahihi.jpg" alt="dendro" width="35px">
+    <img src="assets/nahihi.jpg" alt="dendro" width="30px">
   </h2>
     <div align="center">
       <img src="assets/nahida-nahida-wave.gif" align="right" width="200px">
