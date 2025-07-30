@@ -21,9 +21,11 @@
       𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 
     <img src="assets/nahihi.jpg" alt="dendro" width="30px">
   </h2>
-    <div align="center">
-      <img src="assets/nahida-nahida-wave.gif" align="right" width="200px">
-    </div>
+
+  <div align="center">
+    <img src="assets/nahida-nahida-wave.gif" align="right" width="200px">
+  </div>
+
   <li>
     <b>Name:</b> Jonathan Zefanya
   </li>
@@ -47,12 +49,18 @@
   </li>
   <br><br><br>
 </div>
-<div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
- <br>
+
+<h2 align="center">
+  <img src="assets/prof-nahida.gif" alt="dendro" width="30px">
+    𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮
+  <img src="assets/prof-nahida.gif" alt="dendro" width="30px"> 
+</h2>
+
+<br>
+
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+    <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
   </div>
 </div>
 <div>
