@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://xead.my.id/" >
-    <img src="assets/nahida-genshin-impact.gif" alt="My GIF" width="250px">
+    <img src="assets/nahida-genshin-impact.gif" alt="My GIF" width="100%">
   </a>
 </div>
 
