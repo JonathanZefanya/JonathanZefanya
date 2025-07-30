@@ -101,6 +101,7 @@
   </div>
 <br>
 <br>
+<br>
 
   <p align="center">Here are some of my <br>
   most used social media i used <img src="assets/8007-nahidamachinegun.gif" alt="dendro" width="20px"> 
@@ -117,9 +118,11 @@
 <br>
 
 <div>
-  <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+  <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓥𝓲𝓼𝓲𝓽𝓲𝓷𝓰! ~ 💖</h2>
   <div align="center">
-  <img src="https://i.imgur.com/tzYKRfd.gif">
+    <p align="center">
+      <img src="https://count.getloli.com/get/@JonathanZefanya?theme=moebooru">
+    </p>
   </div>
 <hr>
 </div>
