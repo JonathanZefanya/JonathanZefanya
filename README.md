@@ -15,35 +15,33 @@
   </a>
 </div>
 
-<div align="center">
-<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-      </div>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-  <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-  </div>
-<li>
- <b>Name:</b> Miella</li>
-<li>
-<b>Fursona:</b> Grey Wolf/Snow Fox, sometimes a Bird
-</li>
-<li>
-<b>Loves:</b> anime, osu, rhythm games
-</li>
-<li>
-<b>Gender:</b> she/her/Female
-</li>
-<li>
-<b>LastFM:</b> https://scrobble.egirl.ing
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-</li>
-<li>
-<b>Working @:</b> Intave Anticheat
-</li>
-<br><br><br>
+  <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+    <div align="center">
+      <img src="assets/nahida-nahida-wave.gif" align="right">
+    </div>
+  <li>
+    <b>Name:</b> Jonathan Zefanya
+  </li>
+  <li>
+    <b>Major:</b> Informatics Engineering
+  </li>
+  <li>
+    <b>Loves:</b> anime, RPG Game
+  </li>
+  <li>
+    <b>Gender:</b> Male
+  </li>
+  <li>
+    <b>Address:</b> Indonesian
+  </li>
+  <li>
+    <b>Hobbys:</b> Software Development, Gaming, Writer
+  </li>
+  <li>
+    <b>University :</b> Institut Teknologi Indonesia <img src="https://iti.ac.id/wp-content/uploads/2021/10/Logo-ITI-oke-1.png" alt="logoiti" width="5px">
+  </li>
+  <br><br><br>
 </div>
 <div>
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
