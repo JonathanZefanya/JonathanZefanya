@@ -118,8 +118,16 @@
 
 <br>
 
+<h2 align="center">⚔️ 𝓜𝔂 𝓢𝓽𝓪𝓽𝓾𝓼 ⚔️</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathanzefanya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanzefanya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<br>
+
 <div>
-  <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓥𝓲𝓼𝓲𝓽𝓲𝓷𝓰! ~ 💖</h2>
+  <h2 align="center">💖 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓥𝓲𝓼𝓲𝓽𝓲𝓷𝓰! 💖</h2>
   <div align="center">
     <p align="center">
       <img src="https://count.getloli.com/get/@JonathanZefanya?theme=moebooru">
