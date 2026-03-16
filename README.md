@@ -44,9 +44,6 @@
   <li>
     <b>Hobbys:</b> Software Development, Gaming, Writer
   </li>
-  <li>
-    <b>University :</b> Institut Teknologi Indonesia <img src="https://iti.ac.id/wp-content/uploads/2021/10/Logo-ITI-oke-1.png" alt="logoiti" width="15px">
-  </li>
   <br><br><br>
 </div>
 
