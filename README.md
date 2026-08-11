@@ -48,7 +48,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="38" alt="dart"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="csharp"/>
 
-<br><br>
+<br>
 
 **Frameworks & Libraries**
 <br>
@@ -59,7 +59,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="38" alt="codeigniter"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="38" alt="bootstrap"/>
 
-<br><br>
+<br>
 
 **Database & Tools**
 <br>
