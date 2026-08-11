@@ -18,8 +18,7 @@
   <tr style="border: none;">
     <td width="62%" valign="top" style="border: none;">
 
-<div align="center">
-### <img src='assets/nahihi.jpg' alt="dendro" width="30px"> About Me <img src='assets/nahihi.jpg' alt="dendro" width="30px">
+### <div align="center"> <img src='assets/nahihi.jpg' alt="dendro" width="30px"> About Me <img src='assets/nahihi.jpg' alt="dendro" width="30px">
 </div>
 
 - 💼 **Role:** Fullstack Web & Mobile Developer
