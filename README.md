@@ -1,6 +1,6 @@
 <!-- ───────────────────────── Header ───────────────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=190&color=0:A5D66F,55:5A9E3A,100:2F6B2A&text=Jonathan%20Zefanya&fontColor=FFFFFF&fontSize=46&fontAlignY=34&desc=Fullstack%20Web%20%26%20Mobile%20Developer&descSize=17&descAlignY=54" alt="Jonathan Zefanya — Fullstack Web & Mobile Developer" width="100%" />
+  <img src="assets/banner-header.svg" alt="Jonathan Zefanya — Fullstack Web & Mobile Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ Hi, I'm **Jonathan** — a **Fullstack Web & Mobile Developer** who enjoys turni
 
 <p align="center"><b>Database · DevOps · Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,supabase,docker,kafka,git,github,vercel,figma&perline=10" alt="Database and tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,docker,kafka,git,github,vercel,figma&perline=10" alt="Database and tools" />
 </p>
 
 ## ✦ Featured Projects
@@ -130,5 +130,5 @@ Hi, I'm **Jonathan** — a **Fullstack Web & Mobile Developer** who enjoys turni
 
 <!-- ───────────────────────── Footer ───────────────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:2F6B2A,45:5A9E3A,100:A5D66F" alt="" width="100%" />
+  <img src="assets/banner-footer.svg" alt="" width="100%" />
 </p>

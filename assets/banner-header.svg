@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Jonathan Zefanya — Fullstack Web &amp; Mobile Developer">
+  <defs>
+    <linearGradient id="dendro" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A5D66F"/>
+      <stop offset="55%" stop-color="#5A9E3A"/>
+      <stop offset="100%" stop-color="#2F6B2A"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 0 H900 V150 C780 195 660 120 520 150 C380 180 260 200 140 165 C80 148 30 150 0 160 Z" fill="url(#dendro)"/>
+  <path d="M0 160 C30 150 80 148 140 165 C260 200 380 180 520 150 C660 120 780 195 900 150 V160 C780 205 660 135 520 162 C380 190 260 210 140 175 C80 158 30 160 0 170 Z" fill="#C9A646" opacity="0.55"/>
+  <text x="450" y="78" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#FFFFFF">Jonathan Zefanya</text>
+  <text x="450" y="114" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" letter-spacing="1.5" fill="#F4F9EC">✦  Fullstack Web &amp; Mobile Developer  ✦</text>
+</svg>
