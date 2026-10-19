@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://xead.my.id"><img src="https://img.shields.io/badge/Portfolio-xead.my.id-5A9E3A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://jonathanzefanya.github.io/MyCV/"><img src="https://img.shields.io/badge/Résumé-Web%20CV-C9A646?style=flat-square&logo=readdotcv&logoColor=white" alt="Résumé" /></a>
+  <a href="https://drive.google.com/file/d/14KCOg3XxLkGutuRQhZ2ZGNOCxJvQBcgb/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-Web%20CV-C9A646?style=flat-square&logo=readdotcv&logoColor=white" alt="Résumé" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Indonesia-7A8C7E?style=flat-square" alt="Based in Indonesia" />
 </p>
 
