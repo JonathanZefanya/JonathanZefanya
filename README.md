@@ -1,6 +1,6 @@
 <!-- ───────────────────────── Header ───────────────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=190&color=0:A5D66F,55:5A9E3A,100:2F6B2A&text=Jonathan%20Zefanya&fontColor=FFFFFF&fontSize=46&fontAlignY=34&desc=Mobile%20%26%20Full-Stack%20Developer&descSize=17&descAlignY=54" alt="Jonathan Zefanya — Mobile & Full-Stack Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=190&color=0:A5D66F,55:5A9E3A,100:2F6B2A&text=Jonathan%20Zefanya&fontColor=FFFFFF&fontSize=46&fontAlignY=34&desc=Fullstack%20Web%20%26%20Mobile%20Developer&descSize=17&descAlignY=54" alt="Jonathan Zefanya — Fullstack Web & Mobile Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -19,13 +19,14 @@
 
 <img src="assets/nahida-nahida-wave.gif" align="right" width="150" alt="" />
 
-Hi, I'm **Jonathan** — an Informatics Engineering student at **Institut Teknologi Indonesia** who enjoys turning ideas into working software, from the screen in your hand to the server behind it.
+Hi, I'm **Jonathan** — a **Fullstack Web & Mobile Developer** who enjoys turning ideas into working software, from the screen in your hand to the server behind it. On the side, I'm also running my own software venture.
 
 - 📱 Building **cross-platform mobile apps** with **Flutter**
-- 🧩 Developing **full-stack web apps** with Laravel, React and Spring Boot
+- 🧩 Developing **full-stack web apps** with Laravel, React, .NET and Spring Boot
 - 🔌 Designing **backends & REST APIs** and integrating third-party services
-- 🗄️ Modeling **relational databases** (MySQL, PostgreSQL, Supabase)
+- 🗄️ Modeling **relational databases** (MySQL, PostgreSQL, SQL Server, Supabase)
 - 🌿 Currently exploring **Go, gRPC, Docker & Kafka** for microservices
+- 🎮 Outside of code: anime, RPG games and writing
 
 > *"A single seed of curiosity, given time, grows into a forest of understanding."*
 > I treat every project the same way — plant a question, nurture it with practice, and let it branch into something useful.
@@ -36,17 +37,17 @@ Hi, I'm **Jonathan** — an Informatics Engineering student at **Institut Teknol
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,ts,js,php,java,go,py,cs&perline=8" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=dart,ts,js,php,java,cs,go,py&perline=8" alt="Languages" />
 </p>
 
 <p align="center"><b>Mobile · Frontend · Backend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,vue,vite,tailwind,laravel,spring,nodejs,express,bun&perline=10" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,vue,vite,tailwind,bootstrap,laravel,dotnet,spring,nodejs,express,bun&perline=12" alt="Frameworks" />
 </p>
 
 <p align="center"><b>Database · DevOps · Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,docker,kafka,git,github,vercel&perline=8" alt="Database and tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,supabase,docker,kafka,git,github,vercel,figma&perline=10" alt="Database and tools" />
 </p>
 
 ## ✦ Featured Projects
@@ -102,11 +103,14 @@ Hi, I'm **Jonathan** — an Informatics Engineering student at **Institut Teknol
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JonathanZefanya&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=5A9E3A&icon_color=C9A646&text_color=7A8C7E&ring_color=5A9E3A" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanZefanya&layout=compact&langs_count=8&hide=html,css,scss,jupyter%20notebook&hide_border=true&bg_color=00000000&title_color=5A9E3A&text_color=7A8C7E" alt="Top languages" />
 </p>
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=JonathanZefanya&hide_border=true&background=00000000&ring=5A9E3A&fire=C9A646&currStreakNum=5A9E3A&currStreakLabel=5A9E3A&sideNums=7A8C7E&sideLabels=7A8C7E&dates=7A8C7E&stroke=7A8C7E33" alt="GitHub streak" />
+</p>
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  Open to collaboration, internships and interesting conversations about mobile, backend or anything in between.
+  Open to collaboration and interesting conversations about mobile, backend or anything in between.
 </p>
 
 <p align="center">
@@ -117,6 +121,11 @@ Hi, I'm **Jonathan** — an Informatics Engineering student at **Institut Teknol
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-C9A646?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   -->
+</p>
+
+<p align="center">
+  <sub>Thanks for visiting 🌿</sub><br />
+  <img src="https://count.getloli.com/get/@JonathanZefanya?theme=booru-jaypee" alt="Visitor count" />
 </p>
 
 <!-- ───────────────────────── Footer ───────────────────────── -->
