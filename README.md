@@ -19,7 +19,7 @@
 
 <img src="assets/nahida-nahida-wave.gif" align="right" width="150" alt="" />
 
-Hi, I'm **Jonathan** — a **Fullstack Web & Mobile Developer** who enjoys turning ideas into working software, from the screen in your hand to the server behind it. On the side, I'm also running my own software venture.
+Hi, I'm **Jonathan**, a **Fullstack Web & Mobile Developer** who enjoys turning ideas into working software, from the screen in your hand to the server behind it. On the side, I'm also running my own software venture.
 
 - 📱 Building **cross-platform mobile apps** with **Flutter**
 - 🧩 Developing **full-stack web apps** with Laravel, React, .NET and Spring Boot
@@ -29,7 +29,7 @@ Hi, I'm **Jonathan** — a **Fullstack Web & Mobile Developer** who enjoys turni
 - 🎮 Outside of code: anime, RPG games and writing
 
 > *"A single seed of curiosity, given time, grows into a forest of understanding."*
-> I treat every project the same way — plant a question, nurture it with practice, and let it branch into something useful.
+> I treat every project the same way - plant a question, nurture it with practice, and let it branch into something useful.
 
 <br clear="right" />
 
@@ -55,35 +55,35 @@ Hi, I'm **Jonathan** — a **Fullstack Web & Mobile Developer** who enjoys turni
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JonathanZefanya/superanime-rest-api">superanime REST API</a></h3>
-      <p>REST API that scrapes Indonesian anime subtitle sites and serves the data as uniform JSON — with two-layer caching, optional Supabase sync, and serverless deployment on Vercel.</p>
-      <p><code>TypeScript</code> <code>Bun</code> <code>Express 5</code> <code>Supabase</code></p>
-      <a href="https://otakudesu-scrapper.vercel.app">🔗 Live</a>
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/JonathanZefanya/satorustream">SatoruStream</a></h3>
       <p>Anime streaming frontend that consumes the superanime API, with Supabase-powered account features.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind</code> <code>Supabase</code></p>
       <a href="https://satorustream.vercel.app">🔗 Live</a>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JonathanZefanya/SISEENG">SISEENG</a></h3>
+      <p>A native PHP web application built with the MVC architecture, designed to help churches manage congregational information and activities.</p>
+      <p><code>PHP</code> <code>MySQL</code></p>
+      <a href="https://gbihouseofprayerciseeng.org">🔗 Live</a>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/JonathanZefanya/Aplikasi-Manajemen-Keuangan">Personal Finance Manager</a></h3>
-      <p>Mobile app for managing personal finances — an upgraded version of my earlier budgeting app, built for a mobile programming course.</p>
+      <p>Mobile app for managing personal finances, an upgraded version of my earlier budgeting app, built for a mobile programming course.</p>
       <p><code>Flutter</code> <code>Dart</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/JonathanZefanya/Scanner-App">Scanner App</a></h3>
-      <p>Offline document scanner for cards, receipts and letters — no internet connection required.</p>
+      <p>Offline document scanner for cards, receipts and letters, no internet connection required.</p>
       <p><code>Flutter</code> <code>Dart</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JonathanZefanya/Bookstore">Bookstore</a></h3>
-      <p>Full-scale online bookstore e-commerce app with a Spring Boot REST backend and a React SPA frontend.</p>
-      <p><code>Java 21</code> <code>Spring Boot</code> <code>React</code> <code>TypeScript</code></p>
+      <h3><a href="https://github.com/JonathanZefanya/Aplikasi-Music-Player">Music Player</a></h3>
+      <p>A modern local music player built with Flutter that allows you to play and manage music stored on your Android device.</p>
+      <p><code>Dart</code> <code>Flutter</code> <code>Bloc</code> <code>Hive</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/JonathanZefanya/Shipment-gRPC-Microservise">Shipment gRPC Microservice</a></h3>
