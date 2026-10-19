@@ -1,142 +1,125 @@
-<body>
+<!-- ───────────────────────── Header ───────────────────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=190&color=0:A5D66F,55:5A9E3A,100:2F6B2A&text=Jonathan%20Zefanya&fontColor=FFFFFF&fontSize=46&fontAlignY=34&desc=Mobile%20%26%20Full-Stack%20Developer&descSize=17&descAlignY=54" alt="Jonathan Zefanya — Mobile & Full-Stack Developer" width="100%" />
+</p>
 
-<center>
-<h1 align="center">
-  <img src="https://static.wikia.nocookie.net/genshin-impact/images/7/73/Element_Dendro.svg/revision/latest/thumbnail/width/360/height/360?cb=20220502032615&path-prefix=id" alt="dendro" width="35px">
-    𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 
-  <img src="https://static.wikia.nocookie.net/genshin-impact/images/7/73/Element_Dendro.svg/revision/latest/thumbnail/width/360/height/360?cb=20220502032615&path-prefix=id" alt="dendro" width="35px"> 
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1200&color=5A9E3A&center=true&vCenter=true&width=560&lines=Flutter+apps+that+feel+at+home+on+any+phone;Backends%2C+REST+APIs+%26+clean+databases;Always+curious.+Always+growing.+%F0%9F%8C%B1" alt="Typing intro" />
+</p>
 
-<br>
+<p align="center">
+  <a href="https://xead.my.id"><img src="https://img.shields.io/badge/Portfolio-xead.my.id-5A9E3A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://jonathanzefanya.github.io/MyCV/"><img src="https://img.shields.io/badge/Résumé-Web%20CV-C9A646?style=flat-square&logo=readdotcv&logoColor=white" alt="Résumé" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Indonesia-7A8C7E?style=flat-square" alt="Based in Indonesia" />
+</p>
 
-<div align="center">
-  <a href="https://xead.my.id/" >
-    <img src="assets/nahida-genshin-impact.gif" alt="My GIF" width="100%">
-  </a>
-</div>
+<br />
 
-<div>
-  <h2 align="center">
-    <img src="assets/nahihi.jpg" alt="dendro" width="30px">
-      𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 
-    <img src="assets/nahihi.jpg" alt="dendro" width="30px">
-  </h2>
+## 🌱 About Me
 
-  <div align="center">
-    <img src="assets/nahida-nahida-wave.gif" align="right" width="200px">
-  </div>
+<img src="assets/nahida-nahida-wave.gif" align="right" width="150" alt="" />
 
-  <li>
-    <b>Name:</b> Jonathan Zefanya
-  </li>
-  <li>
-    <b>Major:</b> Informatics Engineering
-  </li>
-  <li>
-    <b>Loves:</b> anime, RPG Game
-  </li>
-  <li>
-    <b>Gender:</b> Male
-  </li>
-  <li>
-    <b>Address:</b> Indonesian
-  </li>
-  <li>
-    <b>Hobbys:</b> Software Development, Gaming, Writer
-  </li>
-  <li>
-    <b>University :</b> Institut Teknologi Indonesia <img src="https://iti.ac.id/wp-content/uploads/2021/10/Logo-ITI-oke-1.png" alt="logoiti" width="15px">
-  </li>
-  <br><br><br>
-</div>
+Hi, I'm **Jonathan** — an Informatics Engineering student at **Institut Teknologi Indonesia** who enjoys turning ideas into working software, from the screen in your hand to the server behind it.
 
-<h2 align="center">
-  <img src="assets/prof-nahida.gif" alt="dendro" width="30px">
-    𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮
-  <img src="assets/prof-nahida.gif" alt="dendro" width="30px"> 
-</h2>
+- 📱 Building **cross-platform mobile apps** with **Flutter**
+- 🧩 Developing **full-stack web apps** with Laravel, React and Spring Boot
+- 🔌 Designing **backends & REST APIs** and integrating third-party services
+- 🗄️ Modeling **relational databases** (MySQL, PostgreSQL, Supabase)
+- 🌿 Currently exploring **Go, gRPC, Docker & Kafka** for microservices
 
-<br>
+> *"A single seed of curiosity, given time, grows into a forest of understanding."*
+> I treat every project the same way — plant a question, nurture it with practice, and let it branch into something useful.
 
-<p>
-  <div align="center">
-    <img src="assets/nahida-genshin-impact-birthday.gif" align="right">
-  </div>
+<br clear="right" />
 
-<div>
-  <br>
+## 🍃 Tech Stack
 
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  /> <br>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  /> <br>
-    <img width="12" />
-    As an enthusiastic student, I am passionate about creating engaging digital experiences and always strive to deliver the best solutions in every project I undertake.
-  </p>
-<br>
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,ts,js,php,java,go,py,cs&perline=8" alt="Languages" />
+</p>
 
-<h2 align="center">⚔️ 𝓜𝔂 𝓢𝓽𝓪𝓽𝓾𝓼 ⚔️</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathanzefanya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanzefanya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center"><b>Mobile · Frontend · Backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,vue,vite,tailwind,laravel,spring,nodejs,express,bun&perline=10" alt="Frameworks" />
+</p>
 
-<br>
+<p align="center"><b>Database · DevOps · Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,docker,kafka,git,github,vercel&perline=8" alt="Database and tools" />
+</p>
 
-<h2 align="center">📝 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮  📝</h2>
-  <div align="center">
-    <img src="assets/salken.gif" align="right" width="373.5px" height="208.5px">
-  </div>
-<br>
-<br>
-<br>
+## ✦ Featured Projects
 
-  <p align="center">Here are some of my <br>
-  most used social media i used <img src="assets/8007-nahidamachinegun.gif" alt="dendro" width="20px"> 
-  </p>
-  <p align="center">
-    <a href="https://www.instagram.com/xeadesta" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Xeadesta&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"/>
-    </a>
-    <a href="https://discordapp.com/users/610354073362759683" target="_blank">
-      <img src="https://img.shields.io/badge/Xeadesta%20-%237289DA.svg?&style=for-the-badge&logo=discordlogoColor=white"/>
-    </a>
-  </p>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JonathanZefanya/superanime-rest-api">superanime REST API</a></h3>
+      <p>REST API that scrapes Indonesian anime subtitle sites and serves the data as uniform JSON — with two-layer caching, optional Supabase sync, and serverless deployment on Vercel.</p>
+      <p><code>TypeScript</code> <code>Bun</code> <code>Express 5</code> <code>Supabase</code></p>
+      <a href="https://otakudesu-scrapper.vercel.app">🔗 Live</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JonathanZefanya/satorustream">SatoruStream</a></h3>
+      <p>Anime streaming frontend that consumes the superanime API, with Supabase-powered account features.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind</code> <code>Supabase</code></p>
+      <a href="https://satorustream.vercel.app">🔗 Live</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JonathanZefanya/Aplikasi-Manajemen-Keuangan">Personal Finance Manager</a></h3>
+      <p>Mobile app for managing personal finances — an upgraded version of my earlier budgeting app, built for a mobile programming course.</p>
+      <p><code>Flutter</code> <code>Dart</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JonathanZefanya/Scanner-App">Scanner App</a></h3>
+      <p>Offline document scanner for cards, receipts and letters — no internet connection required.</p>
+      <p><code>Flutter</code> <code>Dart</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JonathanZefanya/Bookstore">Bookstore</a></h3>
+      <p>Full-scale online bookstore e-commerce app with a Spring Boot REST backend and a React SPA frontend.</p>
+      <p><code>Java 21</code> <code>Spring Boot</code> <code>React</code> <code>TypeScript</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JonathanZefanya/Shipment-gRPC-Microservise">Shipment gRPC Microservice</a></h3>
+      <p>Learning project exploring microservice architecture with gRPC APIs, a message broker and containerized services.</p>
+      <p><code>Go</code> <code>gRPC</code> <code>PostgreSQL</code> <code>Kafka</code> <code>Docker</code></p>
+    </td>
+  </tr>
+</table>
 
-<br>
+<p align="center">
+  <a href="https://github.com/JonathanZefanya?tab=repositories"><b>Explore all repositories →</b></a>
+</p>
 
-<div>
-  <h2 align="center">💖 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓥𝓲𝓼𝓲𝓽𝓲𝓷𝓰! 💖</h2>
-  <div align="center">
-    <p align="center">
-      <!-- <img src="assets/sayonara.gif"> -->
-      <img src="https://count.getloli.com/get/@JonathanZefanya?theme=booru-jaypee">
-    </p>
-  </div>
-<hr>
-</div>
+## 📖 GitHub Stats
 
-</div>
-    </center>
-</body>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JonathanZefanya&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=5A9E3A&icon_color=C9A646&text_color=7A8C7E&ring_color=5A9E3A" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanZefanya&layout=compact&langs_count=8&hide=html,css,scss,jupyter%20notebook&hide_border=true&bg_color=00000000&title_color=5A9E3A&text_color=7A8C7E" alt="Top languages" />
+</p>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  Open to collaboration, internships and interesting conversations about mobile, backend or anything in between.
+</p>
+
+<p align="center">
+  <a href="https://xead.my.id"><img src="https://img.shields.io/badge/Website-5A9E3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.instagram.com/xeadesta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.com/users/610354073362759683"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <!-- TODO: uncomment and fill in once available
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-C9A646?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  -->
+</p>
+
+<!-- ───────────────────────── Footer ───────────────────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:2F6B2A,45:5A9E3A,100:A5D66F" alt="" width="100%" />
+</p>
